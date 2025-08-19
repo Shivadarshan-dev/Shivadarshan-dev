@@ -3,7 +3,7 @@ I'm currently persuing my btech cse degree in chandigarh university<br>Passionat
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SHIVA DARSHAN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivadarshan@600gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)])www.linkedin.com/in/shiva-darshan-01b782371   [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivadarshan@600gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
